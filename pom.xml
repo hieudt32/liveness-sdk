@@ -4,7 +4,7 @@
    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
              http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
-   <groupId>io.kycv3.sdk</groupId>
-   <artifactId>idcard</artifactId>
-   <version>1.0</version>
+   <groupId>com.liveness.sdk.corev4</groupId>
+   <artifactId>livenesssdk</artifactId>
+   <version>4.0</version>
 </project>
